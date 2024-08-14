@@ -1,4 +1,6 @@
 # apnacollege-demo
 this is my first Git Repository
 <br>
-author - sumit sharma
+author - sumit(sumit sharma
+)
+
